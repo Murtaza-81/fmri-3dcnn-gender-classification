@@ -1,0 +1,26 @@
+{
+  "total_samples": 184,
+  "train_samples": 147,
+  "test_samples": 37,
+  "input_shape": [
+    184,
+    64,
+    64,
+    34
+  ],
+  "target_shape": [
+    64,
+    64,
+    34
+  ],
+  "data_type": "fMRI (resting-state)",
+  "normalization": "Min-Max to [-1, 1]",
+  "gender_distribution": {
+    "male": 80,
+    "female": 104
+  },
+  "age_range": [
+    18,
+    76
+  ]
+}
