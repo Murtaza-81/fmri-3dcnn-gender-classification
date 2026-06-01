@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+
+.env
+.venv
+
+.DS_Store
+
+prepared_data/X_train.npy
+prepared_data/X_test.npy
